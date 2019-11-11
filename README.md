@@ -1,3 +1,5 @@
 this is red;
 this is blue;
-blue=2;
+
+red=1;
+
