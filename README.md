@@ -5,3 +5,4 @@ red=1;
 
 new red;
 
+hello red;
