@@ -4,3 +4,4 @@ this is blue;
 red=1;
 
 new red;
+hello red;
