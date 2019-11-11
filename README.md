@@ -7,3 +7,5 @@ new red;
 hello red;
 
 blue do a;
+
+red do b;
